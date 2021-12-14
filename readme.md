@@ -1,6 +1,5 @@
 # Flask Boilerplate
-A react-native powered mobile application to prevent street cleaning and parking
-tickets.
+Add your routes in the `backend/controller`.
 
 # Backend 
 
